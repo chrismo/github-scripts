@@ -1,0 +1,22 @@
+admin:
+    - chrismo
+    - MichaelblakeLS
+    - zoglesby
+member:
+    - bazzargh
+    - cflipse
+    - conanr
+    - josh-m-sharpe
+teams:
+    Reviewers:
+        - cflipse
+        - chrismo
+        - josh-m-sharpe
+    Team:
+        - chrismo
+        - MichaelblakeLS
+        - zoglesby
+        - bazzargh
+        - cflipse
+        - conanr
+        - josh-m-sharpe

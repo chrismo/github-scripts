@@ -1,0 +1,131 @@
+collaborators:
+    binarycleric:
+        name: "Jon Daniel"
+        repos:
+            - circuit-breaker
+    bokmann:
+        name: "David Bock"
+        repos:
+            - "*"
+    bridgethillyer:
+        name: "Bridget Hillyer"
+        repos:
+            - errors-clj
+            - escher
+            - liftoff
+            - migrations-clj
+            - relativity
+    bundacia:
+        name: "Trevor Little"
+        repos:
+            - api-model
+            - api-validation
+    ccjr:
+        name: "Cloves Carneiro Jr"
+        repos:
+            - "*"
+    cdollins:
+        name: "Chad Dollins"
+        repos:
+            - "*"
+    chtrinh:
+        name: "Chris Trinh"
+        repos:
+            - swagger_yard
+    coreypurcell:
+        name: "Corey Purcell"
+        repos:
+            - circuit-breaker
+    danmayer:
+        name: "Dan Mayer"
+        repos:
+            - flatfoot
+            - imprint
+            - newrelic_route_check
+    danrabinowitz:
+        name: "Dan Rabinowitz"
+        repos:
+            - "*"
+    davetron5000:
+        name: "David Copeland"
+        repos:
+            - do-work
+    dexman:
+        name: "Arthur Dexter"
+        repos:
+            - "*"
+    dgknght:
+        name: "Doug Knight"
+        repos:
+            - "*"
+    ghadishayban:
+        name: "Ghadi Shayban"
+        repos:
+            - oauth2-clj
+    glv:
+        name: "Glenn Vanderburg"
+        repos:
+            - api-model
+            - api-validation
+            - circuit-breaker
+            - errors-clj
+            - escher
+            - imprint
+            - jdbc-clj
+            - liftoff
+            - migrations-clj
+            - oauth2-clj
+            - relativity
+    lannon:
+        name: "John Lannon"
+        repos:
+            - "*"
+    nicksieger:
+        name: "Nick Sieger"
+        repos:
+            - api-model
+            - api-validation
+            - swagger_yard
+            - swagger_yard-rails
+    p5k6:
+        name: "Josh Stanfield"
+        repos:
+            - HiveSwarm
+    pupcus:
+        name: "Michael Pendergrass"
+        repos:
+            - jdbc-clj
+            - liftoff
+            - oauth2-clj
+    ryanowens:
+        name: "Ryan Owens"
+        repos:
+            - "*"
+    semperos:
+        name: "Daniel Gregoire"
+        repos:
+            - errors-clj
+            - escher
+            - jdbc-clj
+            - liftoff
+            - migrations-clj
+            - oauth2-clj
+            - relativity
+    timbogit:
+        name: "Tim Schmelmer"
+        repos:
+            - api-model
+            - api-validation
+            - circuit-breaker
+            - swagger_yard
+            - swagger_yard-rails
+    tcopeland:
+        name: "Tom Copeland"
+        repos:
+            - "*"
+repositories:
+    ignore:
+        - clj-code-challenge
+        - data-engineering
+        - mobile-engineering
+        - web-engineering
